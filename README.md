@@ -13,7 +13,7 @@
 ## External link:
 [Check this external link](https://www.youtube.com)
 ## Internal Link
-
+/Pictures
 ## Images
 ![Sailing boat](./Pictures/M-Chronos-oneway.jpg)
 ## Emojis
