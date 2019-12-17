@@ -1,5 +1,5 @@
 # Authoring
-# Github Flavoured Markdown
+#  Flavoured Markdown
 ## Tasklist
 - [ ] External Link
 - [ ] Internal Link
