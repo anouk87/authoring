@@ -1,7 +1,7 @@
 # Authoring
 #  Flavoured Markdown
 ## Tasklist
-- [ ] External Link
+- [X] External Link
 - [ ] Internal Link
 - [ ] Images
 - [ ] Emojis
