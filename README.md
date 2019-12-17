@@ -13,13 +13,10 @@
 ## External link:
 [Check this external link](https://www.youtube.com)
 ## Internal Link
-/Pictures
+[Link to folder](./Pictures)
 ## Images
 ![Sailing boat](./Pictures/M-Chronos-oneway.jpg)
-## Emojis
-## Tables
 ## [github documentation](https://help.github.com/en)
-## image github MISSING
 ## Emoji
 :+1:
 ## Create table 
